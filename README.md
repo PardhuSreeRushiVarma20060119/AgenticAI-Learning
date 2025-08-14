@@ -84,7 +84,7 @@ AgenticAI-Learning/
 │   └── diagnostics.py
 ├── README.md
 └── WeeklyModules/
-    ├── Week1_Foundations/
+    └── Week1_Foundations/
           ├── Week2_OpenAIAgentsSDK/
           ├── Week3_CrewAI/
           ├── Week4_LangGraph/
