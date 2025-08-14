@@ -73,7 +73,7 @@ This repository contains notes, projects, experiments, and code examples from **
 ## Notes & References
 
 - Official Course: [Udemy – The Complete Agentic AI Engineering Course (2025)](https://www.udemy.com/course/agentic-ai-engineering/)
-- Ed Donner's Amazing Repo On This Amazing Course - [action](https://github.com/ed-donner/action)
+- Ed Donner's Amazing Repo On This Amazing Course - [agents](https://github.com/ed-donner/agents)
 - Slides For The Course - [PPTX](resources/slides.pptx) or [PDF](resources/slides.pdf)
 - Agent Framework Docs: OpenAI Agents SDK, CrewAI, LangGraph, AutoGen, MCP  
 - Deployment: Gradio, HuggingFace Spaces  
@@ -82,4 +82,4 @@ This repository contains notes, projects, experiments, and code examples from **
 
 ## License
 
-This repository is for **educational purposes only**. All course content is owned by the respective authors and platform. Code examples are based on my learning exercises and modifications or from [ed-donner's-action-repo](https://github.com/ed-donner/action).
+This repository is for **educational purposes only**. All course content is owned by the respective authors and platform. Code examples are based on my learning exercises and modifications or from [ed-donner's-agents-repo](https://github.com/ed-donner/agents).
