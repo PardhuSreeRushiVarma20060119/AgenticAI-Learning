@@ -47,43 +47,6 @@ This repository contains notes, projects, experiments, and code examples from **
 
 ---
 
-## Repository Structure
-
-```
-AgenticAI-Learning/
-│
-├─ OpenAI-Agents-SDK/
-│ ├─ Basic-Agent-Examples/
-│ └─ Async-Workflow-Projects/
-│
-├─ CrewAI/
-│ ├─ SDR-Agent/
-│ ├─ Stock-Picker-Agent/
-│ └─ Engineering-Team-Agent/
-│
-├─ LangGraph/
-│ ├─ Chatbot-Agent/
-│ ├─ Sidekick-Agent/
-│ └─ Feedback-Loop-Systems/
-│
-├─ AutoGen/
-│ ├─ Agent-Creation/
-│ └─ Distributed-Agent-Systems/
-│
-├─ MCP/
-│ ├─ MCP-Server-Setup/
-│ └─ Trading-Floor-Agents/
-│
-├─ Notes/
-│ ├─ Day1-Foundation.md
-│ ├─ Day2-Agent-Design.md
-│ └─ ...
-│
-└─ README.md
-
-```
----
-
 ## Learning Objectives
 
 - Master the **core principles of agentic AI**  
