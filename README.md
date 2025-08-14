@@ -118,4 +118,4 @@ AgenticAI-Learning/
 
 ## License
 
-This repository is for **educational purposes only**. All course content is owned by the respective authors and platform. Code examples are based on my learning exercises and modifications.
+This repository is for **educational purposes only**. All course content is owned by the respective authors and platform. Code examples are based on my learning exercises and modifications or from [ed-donner's-action-repo](https://github.com/ed-donner/action).
