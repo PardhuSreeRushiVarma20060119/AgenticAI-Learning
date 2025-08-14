@@ -1,5 +1,8 @@
-# Agentic AI Engineering
-> *Day 1: Autonomous AI Agent Demo: Using N8n to Calculate Basic Math.*
+# *Day 1: Autonomous AI Agent Demo: Using N8n to Calculate Basic Math.*
+> **Agentic AI Engineering**
+
+## Resources By Ed Donner :
+You Can Find The Resources [Here](https://edwarddonner.com/2025/04/21/the-complete-agentic-ai-engineering-course/)
 
 ## Day’s Goal
 Experiment with building an **agentic AI workflow** inside **n8n** — focusing on tool usage, model orchestration, and conditional decision-making — inspired by concepts from my current *"Master AI Agents in 30 Days"* course.
