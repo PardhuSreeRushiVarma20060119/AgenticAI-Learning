@@ -1,4 +1,5 @@
-# Agentic AI Engineering – n8n.io
+# Agentic AI Engineering – 
+> Day 1: Autonomous AI Agent Demo: Using N8n to Calculate Basic Math.
 
 ## Day’s Goal
 Experiment with building an **agentic AI workflow** inside **n8n** — focusing on tool usage, model orchestration, and conditional decision-making — inspired by concepts from my current *"Master AI Agents in 30 Days"* course.
