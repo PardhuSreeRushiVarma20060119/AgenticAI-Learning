@@ -88,18 +88,16 @@ Trigger Node → AI Agent → Calculator Node → Return Response
 - **Integration library:** Easy API, tool, and model connectors.
 
 ### **Cons / Limitations**
-- **Output quirks:** Extra formatting needed for conversational tone.
 - **Limited advanced reasoning control:** Compared to code-first frameworks like LangGraph, CrewAI, or AutoGen.
 - **Scaling complexity:** Multi-agent architectures become visually messy.
 
 ---
 
 ## Next Steps
-1. **Fix Calculator Output** — Add text formatting for readable answers.
-2. **Add More Tools** — Web search, document lookup, database queries.
-3. **Multi-Agent Chain** — e.g., Planner → Executor.
-4. **Memory Upgrade** — Use vector DB in n8n for better context.
-5. **Migrate to Code** — Rebuild in CrewAI or LangGraph for more fine-tuned control.
+1. **Add More Tools** — Web search, document lookup, database queries.
+2. **Multi-Agent Chain** — e.g., Planner → Executor.
+3. **Memory Upgrade** — Use vector DB in n8n for better context.
+4. **Migrate to Code** — Rebuild in CrewAI or LangGraph for more fine-tuned control.
 
 ---
 
