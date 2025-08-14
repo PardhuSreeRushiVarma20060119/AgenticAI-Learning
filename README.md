@@ -18,6 +18,34 @@ This repository contains notes, projects, experiments, and code examples from **
 
 ---
 
+## In Detail : 📚 Knowledge Taxonomy
+
+### Color Legend
+- 🟤 **Brown** – Theory & Concepts  
+- 🔵 **Blue** – Frameworks & New Learnings  
+- 🟡 **Deep Yellow** – Projects  
+- 🌟 **Bright Yellow** – Major Projects / Flagship Work  
+
+#### 🟤 1. Theory
+- Core principles, foundations, and concepts
+- Academic references and fundamental materials
+
+#### 🔵 2. Frameworks & New Learnings
+- Practical frameworks, methodologies, and tools  
+- Tutorials, notes, and experiments
+
+#### 🟡 3. Projects
+- Small-to-medium hands-on applications  
+- Prototype implementations, demos, or exercises
+
+#### 🌟 4. Major Projects
+- Flagship initiatives or portfolio-level work  
+- Long-term, multi-component, or production-ready projects
+
+<img width="462" height="513" alt="image" src="https://github.com/user-attachments/assets/858f2312-694e-4963-882c-322afbcdb974" />
+
+---
+
 ## Projects & Experiments
 
 | Project | Description |
