@@ -33,6 +33,43 @@ This repository contains notes, projects, experiments, and code examples from **
 
 ---
 
+## Repository Structure
+
+
+```
+
+AgenticAI-Learning/
+├── Notes/
+│   └── (Agentic AI Engineering notes)
+├── Setup/
+|   ├── SetupForWindows.md
+|   ├── SetupForMacOS.md
+|   ├── SetupForLinux.md
+|   ├── SetupForWSL.md
+│   └── SetupForNode.md
+├── guides/
+│   └── (other guide files)
+├── resources/
+│   └── (resource files)
+├── troubleshoots/
+|   ├── troubleshooting.ipynb
+│   └── diagnostics.py
+├── README.md
+└── WeeklyModules/
+    ├── Week1_Foundations/
+          ├── Week2_OpenAIAgentsSDK/
+          ├── Week3_CrewAI/
+          ├── Week4_LangGraph/
+          ├── Week5_AutoGen/
+          └── Week6_MCP/
+
+
+```
+
+
+
+
+
 ## Frameworks & Tools Covered
 
 - **OpenAI Agents SDK** – Creating, tracing, and running autonomous agents with Python  
