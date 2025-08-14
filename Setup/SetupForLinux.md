@@ -161,4 +161,4 @@ And then try again.
 
 If you have any problems, I've included a Guide called [troubleshooting.ipynb](troubleshooting.ipynb) to figure it out.
 
-Please do message me or email me at ed@edwarddonner.com if this doesn't work or if I can help with anything. I can't wait to hear how you get on.
+Please do message me or email at ed@edwarddonner.com if this doesn't work or if I can help with anything. I can't wait to hear how you get on.
