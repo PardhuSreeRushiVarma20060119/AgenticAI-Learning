@@ -110,7 +110,7 @@ AgenticAI-Learning/
 ## Notes & References
 
 - Official Course: [Udemy – The Complete Agentic AI Engineering Course (2025)](https://www.udemy.com/course/agentic-ai-engineering/)
-- Slides For The Course - [PPTX](slides.pptx) or [PDF](slides.pdf)
+- Slides For The Course - [PPTX](resources/slides.pptx) or [PDF](resources/slides.pdf)
 - Agent Framework Docs: OpenAI Agents SDK, CrewAI, LangGraph, AutoGen, MCP  
 - Deployment: Gradio, HuggingFace Spaces  
 
